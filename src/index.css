@@ -1,0 +1,21 @@
+<style>
+  /* Fondo general oscuro */
+  html, body, #root {
+    background-color: #0f172a !important;
+    color: #ffffff !important;
+  }
+
+  /* Aplica fondo oscuro a TODOS los campos de entrada y desplegables del proyecto */
+  input, select, textarea {
+    background-color: #1e293b !important;
+    color: #ffffff !important;
+    border: 1px solid #334155 !important;
+    border-radius: 0.5rem !important;
+  }
+
+  /* Color de las opciones desplegables dentro de los select */
+  select option {
+    background-color: #0f172a !important;
+    color: #ffffff !important;
+  }
+</style>
